@@ -35,7 +35,7 @@ public class TrFinal {
         ptc=sm+c;
         System.out.println("La comision de venta es : S/"+c);
         System.out.println("El sueldo mensual del vendedor es : s/"+ptc);
-        
+        //jenkins
         
         
     }
